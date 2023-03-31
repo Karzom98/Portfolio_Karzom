@@ -1,4 +1,6 @@
-
+body{
+    max-width:1440px;
+}
 .nav-bar{
     display: flex;
     height:128px;
