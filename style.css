@@ -1,5 +1,6 @@
-body{
-    max-width:1440px;
+main{
+    background-color: #7ef996;
+    max-width: 1440px;
 }
 .nav-bar{
     display: flex;
